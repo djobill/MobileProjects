@@ -1,0 +1,13 @@
+<resources>
+    <string name="action_settings">Paramètres</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_name">Gestion Biens Mobiliers</string>
+    <string name="address">Adresse</string>
+    <string name="City">Ville</string>
+    <string name="postal_code">Code postal</string>
+    <string name="firstRes">Principale</string>
+    <string name="secondRes">Secondaire</string>
+    <string name="resType">Résidence</string>
+    <string name="title_activity_editing_building">Editing Building</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
